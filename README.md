@@ -3,7 +3,7 @@
 fs-diceroll made by ⸸♱♥IDK_FORCE♥♱⸸#7611
 
 ```My Discord```
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 ## How To Use
 Type In Chat /roll (number of dice) (number of sides)
